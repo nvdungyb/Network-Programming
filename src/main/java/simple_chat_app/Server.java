@@ -1,4 +1,4 @@
-package socket;
+package simple_chat_app;
 
 import java.io.IOException;
 import java.net.ServerSocket;
